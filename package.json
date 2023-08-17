@@ -3,7 +3,7 @@
   "name": "@walesb/schemas",
   "version": "1.0.0",
   "license": "MIT",
-  "description": "All Wales-B Schemas",
+  "description": "All Wales Schemas",
   "readmeFilename": "README.md",
   "files": [
     "dist/**/*",
