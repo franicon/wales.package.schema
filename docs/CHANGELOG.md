@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/franicon/wales.package.schema/compare/v1.2.0...v1.3.0) (2023-08-18)
+
+
+### Features
+
+* card-schema ([639308a](https://github.com/franicon/wales.package.schema/commit/639308a3dd84884028606b882c66e6aca085dad1))
+
 # [1.2.0](https://github.com/franicon/wales.package.schema/compare/v1.1.0...v1.2.0) (2023-08-18)
 
 
