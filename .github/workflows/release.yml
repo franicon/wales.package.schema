@@ -1,6 +1,6 @@
 name: Node.js Package
 
-on: Release
+on: development
 
 jobs:
   build:
