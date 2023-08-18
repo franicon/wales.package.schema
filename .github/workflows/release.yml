@@ -22,8 +22,8 @@ jobs:
           echo "//npm.pkg.github.com/:_authToken=${{ secrets.NPM_TOKEN }}" >> .npmrc
           npm ci
           rm .npmrc
-          npm publish
       - run: npm run release:pkg
+      - run: npm publish
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
