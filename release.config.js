@@ -1,6 +1,6 @@
 module.exports = {
   branches: "main",
-  repositoryUrl: "https://github.com/franicon/wales.package.schema",
+  repositoryUrl: "https://github.com/franicon/wales.package.schema.git",
   plugins: [
     "@semantic-release/npm",
     "@semantic-release/github",
