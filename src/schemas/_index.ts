@@ -1,1 +1,1 @@
-export * from './admin.schema';
+export * from './setup.card-name.schema';
