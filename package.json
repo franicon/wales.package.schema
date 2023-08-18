@@ -1,6 +1,6 @@
 {
   "main": "dist/index.js",
-  "name": "@walesb/schemas",
+  "name": "@franicon/schemas",
   "version": "1.0.0",
   "license": "MIT",
   "description": "All Wales Schemas",
@@ -19,7 +19,7 @@
     "nestjs"
   ],
   "publishConfig": {
-    "access": "public"
+    "registry": "https://npm.pkg.github.com"
   },
   "dependencies": {
     "@nestjs/mongoose": "^9.2.0"
