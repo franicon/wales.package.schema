@@ -19,7 +19,7 @@
     "nestjs"
   ],
   "publishConfig": {
-    "registry": "public"
+    "registry": "https://npm.pkg.github.com"
   },
   "dependencies": {
     "@nestjs/mongoose": "^9.2.0"
